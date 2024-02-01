@@ -1,0 +1,5 @@
+#the client secret file
+client_secret_google_api.json
+
+#secrets file
+.env
